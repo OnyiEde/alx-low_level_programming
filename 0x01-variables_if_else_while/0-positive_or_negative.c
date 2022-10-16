@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main-Program entry point.
+ * main- Entry point of the program.
  * Return: 0 if no error, non-zero values if error.
  **/
 int main(void)
@@ -21,5 +21,6 @@ int main(void)
 	else if (n == 0)
 	{
 		printf("%d is zero\n", n);
-		return (0);
 	}
+return (0);
+}
