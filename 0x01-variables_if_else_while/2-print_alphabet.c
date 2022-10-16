@@ -4,7 +4,7 @@
  *
  * Return: 0 if no errors, non-zero values if errors.
  */
-int main (void)
+int main(void)
 {
 	char i;
 
