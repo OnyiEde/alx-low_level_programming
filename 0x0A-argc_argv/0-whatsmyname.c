@@ -16,7 +16,7 @@
  * Return: 0 always
  */
 
-main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	(void) argc;
 
