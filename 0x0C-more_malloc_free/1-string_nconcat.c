@@ -40,8 +40,8 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 		for (j = 0; s1[j]; ++j)
 			;
 	}
-	if (y > n)
-		y = n;
+	if (j > n)
+		j = n;
 	s = malloc(sizeof(char) * (i + j + 1));
 	if (s == NULL)
 		return (NULL);
