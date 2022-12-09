@@ -1,4 +1,8 @@
-include "main.h"
+/*
+ * File: 0-read_textfile.c
+ * Auth: Ede Onyi.
+ */
+#include "main.h"
 #include <stdlib.h>
 
 /**
