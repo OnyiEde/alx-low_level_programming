@@ -1,1 +1,1 @@
-0x18-dynamic_libraries
+This is repository for low level programming language task
